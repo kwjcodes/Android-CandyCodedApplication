@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,26 +141,55 @@
       <option name="project" value="LOCAL" />
       <updated>1602663906425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed TODO - Task 1 - Show Store Information Activity">
+      <created>1602664172550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602664172550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed TODO - Task 1 - Show Store Information Activity">
+      <created>1602665227229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602665227229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed TODO - Task 2 - Launch the Google Maps Activity">
+      <created>1602666001371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666001371</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed TODO - Task 2 - Launch the Google Maps Activity">
+      <created>1602666141839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666141839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed TODO - Task 1 - Show Store Information Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed TODO - Task 1 - Show Store Information Activity" />
+    <MESSAGE value="Completed TODO - Task 2 - Launch the Google Maps Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed TODO - Task 2 - Launch the Google Maps Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602663117184">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.900@0.0.1600.900" timestamp="1602663117184" />
-    <state x="540" y="89" key="CommitChangelistDialog2" timestamp="1602663926953">
+    <state x="540" y="89" key="CommitChangelistDialog2" timestamp="1602666140363">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="540" y="89" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1602663926953" />
-    <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1602663729444">
+    <state x="540" y="89" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1602666140363" />
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1602666704075">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1602663729444" />
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1602666704075" />
     <state x="496" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1602663085700">
       <screen x="0" y="0" width="1600" height="900" />
     </state>

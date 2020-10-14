@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +47,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
-    
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
-    
-    <property name="show.do.not.ask.upgrade.gradle.version" value="5.1.4" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
   <component name="RunManager">
@@ -130,17 +127,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed TODO - Task 1 - Show Store Information Activity">
+      <created>1602663906425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602663906425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed TODO - Task 1 - Show Store Information Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed TODO - Task 1 - Show Store Information Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602663117184">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.900@0.0.1600.900" timestamp="1602663117184" />
-    <state x="540" y="89" key="CommitChangelistDialog2" timestamp="1602663839847">
+    <state x="540" y="89" key="CommitChangelistDialog2" timestamp="1602663926953">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="540" y="89" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1602663839847" />
+    <state x="540" y="89" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1602663926953" />
     <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1602663729444">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
